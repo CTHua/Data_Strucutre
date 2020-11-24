@@ -5,7 +5,7 @@
 #define Lint long long
 #define R_max 1073741824 //2^30
 using namespace std;
-multiset<int> SC;
+set<int> SC;
 typedef struct
 {
     unsigned long size, resident, share, text, lib, data, dt;
