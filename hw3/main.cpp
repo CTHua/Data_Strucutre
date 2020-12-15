@@ -1,5 +1,5 @@
 //==============================================================//
-//|         NCCU CS Data Structure Homework 2 by.CTHua         |//
+//|         NCCU CS Data Structure Homework 3 by.CTHua         |//
 //==============================================================//
 #include <bits/stdc++.h>
 #include "skiplist.h"
